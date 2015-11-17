@@ -1,3 +1,34 @@
+Codelife
+==============================================
+
+star 的作用是收藏，目的是方便以后查找。  
+watch 的作用是关注，目的是等我更新的时候，你可以收到通知。  
+fork 的作用是参与，目的是你增加新的内容，然后 Pull Request，我会考虑把你的修改和我原来的内容合并。  
+
+## 参加步骤
+* 在 GitHub 上 `fork` 到自己的仓库，然后 `clone` 到本地，并设置用户信息。
+```
+$ git clone https://github.com/cywxer/codelife.git
+$ cd codelife
+$ git config user.name "yourname"
+$ git config user.email "your email"
+```
+* 修改代码后提交，并推送到自己的仓库。
+```
+$ #do some change on the content
+$ git commit -am "Fix issue #1: change helo to hello"
+$ git push
+```
+* 在 GitHub 网站上提交 pull request。
+* 定期使用项目仓库内容更新自己仓库内容。
+```
+$ git remote add upstream https://github.com/cywxer/codelife
+$ git fetch upstream
+$ git checkout master
+$ git rebase upstream/master
+$ git push -f origin master
+```
+
 # free book
 * [免费书籍](https://github.com/justjavac/free-programming-books-zh_CN)
 * [编程入门](http://wiki.jikexueyuan.com/)
