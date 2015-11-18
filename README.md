@@ -35,12 +35,18 @@ $ git push -f origin master
 ## 目录
 
 1. 资源整理
-   1. [免费在线书籍](#free-book)
+
+   * [免费在线书籍](#free-book)
+
+1. 工具篇
+
+   * [微信调试利器](http://blog.qqbrowser.cc/)
    
-1. 按语言细分
-   1. [Android](#android)
-   1. [Docker](#docker)
-   1. [PHP](#php)
+1. 按技术方向
+
+   * [Android](#android)
+   * [Docker](#docker)
+   * [PHP](#php)
 
 ### free book
 1. [这里收录了很多免费编程书籍,应有尽有](https://github.com/justjavac/free-programming-books-zh_CN)
