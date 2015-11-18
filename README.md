@@ -29,17 +29,22 @@ $ git rebase upstream/master
 $ git push -f origin master
 ```
 
-# free book
-* [免费书籍](https://github.com/justjavac/free-programming-books-zh_CN)
-* [编程入门](http://wiki.jikexueyuan.com/)
 
 
-## 资源
 
-* [Android](#Android)
-* [Docker](#Docker)
-* [PHP](#PHP)
+## 目录
 
+1. 资源整理
+   1. [免费在线书籍](#free-book)
+   
+1. 按语言细分
+   1. [Android](#android)
+   1. [Docker](#docker)
+   1. [PHP](#php)
+
+### free book
+1. [这里收录了很多免费编程书籍,应有尽有](https://github.com/justjavac/free-programming-books-zh_CN)
+1. [诸多编程入门wiki](http://wiki.jikexueyuan.com/)
 
 ### Android
 
