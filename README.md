@@ -41,6 +41,7 @@ $ git push -f origin master
 1. 工具篇
 
    * [微信调试利器](http://blog.qqbrowser.cc/)
+   * [免费翻墙利器lantern-即安即用](https://github.com/getlantern/lantern)
    
 1. 按技术方向
 
