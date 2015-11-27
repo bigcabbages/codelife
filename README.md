@@ -38,6 +38,9 @@ $ git push -f origin master
 
    * [免费在线书籍](#free-book)
 
+1. 好玩的
+   * [在终端下点对点视频聊天](#https://github.com/mofarrell/p2pvc)
+
 1. 工具篇
 
    * [微信调试利器](http://blog.qqbrowser.cc/)
