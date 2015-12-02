@@ -34,9 +34,9 @@ $ git push -f origin master
 
 ## 目录
 
-1. 资源整理
-
-   * [免费在线书籍](#free-book)
+1. Free Book
+   * [这里收录了很多免费编程书籍,应有尽有](https://github.com/justjavac/free-programming-books-zh_CN)
+   * [诸多编程入门wiki](http://wiki.jikexueyuan.com/)
 
 1. 好玩的
    * [在终端下点对点视频聊天](#https://github.com/mofarrell/p2pvc)
@@ -48,16 +48,11 @@ $ git push -f origin master
    
 1. 按技术方向
 
-   * [Android](#android)
-   * [Docker](#docker)
-   * [PHP](#php)
+   * [Android](/android)
+   * [Docker](/go/docker)
+   * [PHP](/php)
 
-### free book
-1. [这里收录了很多免费编程书籍,应有尽有](https://github.com/justjavac/free-programming-books-zh_CN)
-1. [诸多编程入门wiki](http://wiki.jikexueyuan.com/)
 
-### Android
 
-* [Android 开源项目分类汇总](https://github.com/Trinea/android-open-project)
 
 
