@@ -46,11 +46,15 @@ $ git push -f origin master
    * [微信调试利器](http://blog.qqbrowser.cc/)
    * [免费翻墙利器lantern-即安即用](https://github.com/getlantern/lantern)
    
-1. 按技术方向
+1. 按编程语言分类
 
    * [Android](/android)
-   * [Go](/go)
+   * [Golang](/golang)
    * [PHP](/php)
+   
+1. 按技术方向分类
+   
+   * [机器学习](/machine-learing)
 
 
 
