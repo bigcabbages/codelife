@@ -39,7 +39,7 @@ $ git push -f origin master
    * [诸多编程入门wiki](http://wiki.jikexueyuan.com/)
 
 1. 好玩的
-   * [在终端下点对点视频聊天](#https://github.com/mofarrell/p2pvc)
+   * [在终端下点对点视频聊天](https://github.com/mofarrell/p2pvc)
 
 1. 工具篇
 
@@ -49,7 +49,7 @@ $ git push -f origin master
 1. 按技术方向
 
    * [Android](/android)
-   * [Docker](/go/docker)
+   * [Go](/go)
    * [PHP](/php)
 
 
