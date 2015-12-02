@@ -54,7 +54,7 @@ $ git push -f origin master
    
 1. 按技术方向分类
    
-   * [机器学习](/machine-learing)
+   * [机器学习](/machine-learning)
 
 
 
