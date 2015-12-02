@@ -48,9 +48,10 @@ $ git push -f origin master
    
 1. 按编程语言分类
 
-   * [Android](/android)
-   * [Golang](/golang)
-   * [PHP](/php)
+   * [Android](android)
+   * [Golang](golang)
+   * [PHP](php)
+   * [Python](python)
    
 1. 按技术方向分类
    
