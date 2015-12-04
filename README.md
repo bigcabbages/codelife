@@ -57,6 +57,10 @@ $ git push -f origin master
    
    * [机器学习](/machine-learning)
 
+1. 未分类
+
+   * [写的比较好RESTful书籍(英文)](https://github.com/tlhunter/consumer-centric-api-design)
+      * [网友翻译的其中部分文章](http://www.cnblogs.com/moonz-wu/p/4211626.html)
 
 
 
